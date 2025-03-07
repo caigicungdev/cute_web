@@ -80,10 +80,12 @@ const Title = styled(motion.h1)`
 <Title
   initial={{ opacity: 0, y: -50 }}
   animate={{ opacity: 1, y: 0 }}
+
   transition={{ duration: 1 }}
   className="responsive-title"
 >
- Chúc mừng ngày 8/3, cún iu cụa anhhh!
+ Chúc mừng ngày 8/3, hồng nhung của tớ :>
+!
 </Title>
 
 const PuppyContainer = styled(motion.div)`
